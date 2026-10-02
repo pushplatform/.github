@@ -36,7 +36,7 @@
 1. Создайте аккаунт на [PushPilot](https://pushpilot.ru/register).
 2. Добавьте проект и приложение в клиентском кабинете.
 3. Настройте APNs, FCM или VAPID credentials для Web Push.
-4. Подключите [SDK вашей платформы](https://pushpilot.ru/docs/sdks) и регистрацию устройств.
+4. Подключите [SDK вашей платформы](https://github.com/pushplatform/pushpilot-sdks/sdks) и регистрацию устройств.
 5. Создайте API-ключ с нужными правами для серверной интеграции.
 6. Отправляйте уведомления через REST API и смотрите статусы.
 
@@ -54,7 +54,6 @@
 | 🦋 **Flutter** | [Flutter SDK](https://github.com/pushplatform/pushpilot-sdk-flutter) | [README](https://github.com/pushplatform/pushpilot-sdk-flutter#readme) |
 | 🌐 **Web** | [JavaScript / TypeScript SDK](https://github.com/pushplatform/pushpilot-sdk-web) | [README](https://github.com/pushplatform/pushpilot-sdk-web#readme) |
 
-> SDK готовятся к публичному выпуску. Пока репозитории доступны участникам организации.
 
 <a name="documentation"></a>
 
