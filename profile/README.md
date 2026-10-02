@@ -6,9 +6,9 @@
 
 # PushPilot
 
-**Пуши для ваших приложений и сайтов. Понятные тарифы.**
+**Пуши для ваших приложений и сайтов**
 
-[Быстрый старт](#quickstart) &nbsp; • &nbsp; [Сайт](https://pushpilot.ru) &nbsp; • &nbsp; [Документация](#documentation) &nbsp; • &nbsp; [SDK](#sdks)
+[Быстрый старт](https://pushpilot.ru/docs/quick-start) &nbsp; • &nbsp; [Сайт](https://pushpilot.ru) &nbsp; • &nbsp; [Документация](https://pushpilot.ru/docs) &nbsp; • &nbsp; [SDK](https://pushpilot.ru/docs/sdk)
 
 </div>
 
@@ -36,7 +36,7 @@
 1. Создайте аккаунт на [PushPilot](https://pushpilot.ru/register).
 2. Добавьте проект и приложение в клиентском кабинете.
 3. Настройте APNs, FCM или VAPID credentials для Web Push.
-4. Подключите [SDK вашей платформы](#sdks) и регистрацию устройств.
+4. Подключите [SDK вашей платформы](https://pushpilot.ru/docs/sdks) и регистрацию устройств.
 5. Создайте API-ключ с нужными правами для серверной интеграции.
 6. Отправляйте уведомления через REST API и смотрите статусы.
 
@@ -60,9 +60,9 @@
 
 ## 📚 Документация
 
-- [Начало интеграции](#quickstart) — от проекта до первой отправки.
-- [Инструкции по SDK](#sdks) — настройка для вашей платформы.
-- [Сайт PushPilot](https://pushpilot.ru) — информация о сервисе.
+- [Начало интеграции](https://pushpilot.ru/docs/quick-start) — от проекта до первой отправки.
+- [Инструкции по SDK](https://pushpilot.ru/docs/sdks) — настройка для вашей платформы.
+- [Сайт PushPilot](https://pushpilot.ru/about) — информация о сервисе.
 
 Подробные инструкции и ограничения конкретного SDK находятся в README его репозитория.
 
@@ -83,4 +83,3 @@
 [pushpilot.ru](https://pushpilot.ru) &nbsp; • &nbsp; [GitHub](https://github.com/pushplatform)
 
 </div>
-
