@@ -3,10 +3,8 @@
 <a href="https://pushpilot.ru">
   <img src="https://raw.githubusercontent.com/pushplatform/.github/HEAD/assets/pushpilot-banner.png" alt="PushPilot — push-уведомления для приложений и сайтов" width="100%">
 </a>
+<br/><br/>
 
-# PushPilot
-
-**Пуши для ваших приложений и сайтов**
 
 [Быстрый старт](https://pushpilot.ru/docs/quick-start) &nbsp; • &nbsp; [Сайт](https://pushpilot.ru) &nbsp; • &nbsp; [Документация](https://pushpilot.ru/docs) &nbsp; • &nbsp; [SDK](https://pushpilot.ru/docs/sdk)
 
@@ -63,7 +61,7 @@
 - [Инструкции по SDK](https://pushpilot.ru/docs/sdks) — настройка для вашей платформы.
 - [Сайт PushPilot](https://pushpilot.ru/about) — информация о сервисе.
 
-Подробные инструкции и ограничения конкретного SDK находятся в README его репозитория.
+Подробные инструкции и конкретного SDK находятся в README его репозитория.
 
 ## ❤️ Разработчикам
 
