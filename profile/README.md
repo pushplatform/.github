@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://pushpilot.ru">
-  <img src="https://assets/pushpilot-banner.png" alt="PushPilot — push-уведомления для приложений и сайтов" width="100%">
+  <img src="https://raw.githubusercontent.com/pushplatform/.github/HEAD/assets/pushpilot-banner.png" alt="PushPilot — push-уведомления для приложений и сайтов" width="100%">
 </a>
 
 # PushPilot
